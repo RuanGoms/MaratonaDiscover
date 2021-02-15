@@ -1,4 +1,4 @@
 # MaratonaDiscover
 
-Projeto Maratona Discover pela Rocketseat
+Projeto final da Maratona Discover pela Rocketseat
 
